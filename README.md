@@ -1,0 +1,1 @@
+This is mini project #1 of the JavaScript Algorithms and Data Structures certification course by Free Code Camp. This project focuses on reviewing topics like functions, variables, conditionals by building a gradebook "app" for a teacher. Use this repo to find solutions to each step of the project or contribute alternate solutions. 
